@@ -6,6 +6,7 @@ using UnityEngine.UI;
 
 public class UI : MonoBehaviour
 {
+    //declare variables
     public TextMeshProUGUI stageText;
     public TextMeshProUGUI livesText;
     public GameObject weaponImg;
